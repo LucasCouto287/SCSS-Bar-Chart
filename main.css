@@ -32,3 +32,15 @@ rect:before {
   transform-origin: left top 0;
   float: left;
 }
+
+
+rect:after {
+  position: absolute;
+  top: -15px;
+  left: 0px;
+}
+
+rect:nth-child(2) {
+  height: 632.66667px;
+  background-color: rgba(167, 240, 213, 0.55);
+}
