@@ -24,3 +24,11 @@ rect {
   background-color: #707070;
   font-family: 'Montserrat', sans-serif;
 }
+
+
+rect:before {
+  display: inline-block;
+  -webkit-transform: rotate(90deg);
+  transform-origin: left top 0;
+  float: left;
+}
