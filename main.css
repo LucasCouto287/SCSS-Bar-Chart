@@ -66,3 +66,17 @@ rect:nth-child(3):before {
 rect:nth-child(3):after {
   content: "1017m";
 }
+
+
+rect:nth-child(4) {
+  height: 246px;
+  background-color: rgba(10, 165, 153, 0.45);
+}
+
+rect:nth-child(4):before {
+  content: "Rice";
+}
+
+rect:nth-child(4):after {
+  content: "738m";
+}
