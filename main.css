@@ -52,3 +52,17 @@ rect:nth-child(2):before {
 rect:nth-child(2):after {
   content: "1898m";
 }
+
+
+rect:nth-child(3) {
+  height: 339px;
+  background-color: rgba(0, 159, 255, 0.5);
+}
+
+rect:nth-child(3):before {
+  content: "Corn";
+}
+
+rect:nth-child(3):after {
+  content: "1017m";
+}
