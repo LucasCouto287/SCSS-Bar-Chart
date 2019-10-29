@@ -44,3 +44,11 @@ rect:nth-child(2) {
   height: 632.66667px;
   background-color: rgba(167, 240, 213, 0.55);
 }
+
+rect:nth-child(2):before {
+  content: "Sugar Cane";
+}
+
+rect:nth-child(2):after {
+  content: "1898m";
+}
