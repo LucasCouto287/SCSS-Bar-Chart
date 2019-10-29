@@ -4,3 +4,23 @@ h1 {
   padding-bottom: 20px;
   color: #434444;
 }
+
+
+span {
+  display: block;
+}
+
+rect {
+  width: 24px;
+  float: left;
+  padding-left: 25px;
+  padding-top: 7px;
+  white-space: nowrap;
+  word-break: break-all;
+  position: relative;
+  bottom: 0px;
+  font-size: 12px;
+  color: #707070;
+  background-color: #707070;
+  font-family: 'Montserrat', sans-serif;
+}
